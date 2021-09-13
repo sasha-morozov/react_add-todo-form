@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MAEE,eACF,CAEA,eAKE,QAAS,CACT,SACF","file":"main.c1bad699.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\nul,\nli {\n  list-style: none;\n}\n\nul,\nli,\ndiv,\np,\nh1 {\n  margin: 0;\n  padding: 0;\n}\n"]}
